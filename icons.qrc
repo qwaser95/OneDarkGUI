@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>home.ico</file>
+        <file>plug.ico</file>
+        <file>addusers.ico</file>
+        <file>openfile.ico</file>
+        <file>savefile.ico</file>
+        <file>newfile.ico</file>
+        <file>info.ico</file>
+        <file>settings.ico</file>
+        <file>arrow.ico</file>
+        <file>arrowdefault.ico</file>
+        <file>hamburger.ico</file>
+        <file>close.ico</file>
+        <file>search.ico</file>
+        <file>maximize.ico</file>
+        <file>rollup.ico</file>
+        <file>minimize.ico</file>
+        <file>arrowright.ico</file>
+    </qresource>
+</RCC>
